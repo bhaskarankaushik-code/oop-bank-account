@@ -1,0 +1,7 @@
+Date,Type,Label,Amount,Balance
+2026-09-15,Deposit,Salary,45000,46000
+2026-09-15,Withdrawal,Rent,-500,45500
+2026-09-15,Withdrawal,Grocery,-80,45420
+2026-09-15,Deposit,Freelance,1500,46920
+2026-09-15,Withdrawal,Grocery,-200,46720
+2026-09-15,Withdrawal,Netflix,-15,46705
